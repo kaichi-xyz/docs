@@ -1,21 +1,5 @@
----
-cover: .gitbook/assets/x-profile-bg.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+![Cover Image](.gitbook/assets/x-profile-bg.png)
+
 
 # What is Kaichi?
 
@@ -46,5 +30,3 @@ Our approach is rooted in the conviction that **tokens underpinning protocols wi
 We firmly believe that tokens backed by protocols demonstrating a strong product-market fit, guided by strong and visionary management teams, and showcasing a clear path to sustainable unit economics will excel.&#x20;
 
 Now, <mark style="color:yellow;">**you**</mark> can participate in the **growth of your favorite influencer** or project and get financially rewarded.&#x20;
-
-\
