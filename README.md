@@ -1,9 +1,14 @@
 ---
+cover: .gitbook/assets/x-profile-bg.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -12,39 +17,34 @@ layout:
     visible: true
 ---
 
-# Introduction
+# What is Kaichi?
 
-TL;DR: here is a 30sec video giving a high level overview of Kaichi:&#x20;
+## Introduction to Kaichi
 
-{% embed url="https://www.youtube.com/watch?v=ozQNyP8Dmtw" %}
+Kaichi is a **decentralized**, **uncensorable**, and **permissionless** **social marketplace** on a natively **scalable** blockchain, allowing **trading of social capital** and fair **sharing of revenues** between users and creators directly. \
+\
+Social media represents a vast industry with evident issues such as centralized power, inadequate creator monetization, censorship, and data privacy concerns. Web2 platforms retain the majority of revenues generated from user engagement and advertising, neglecting to adequately share these earnings with content creators.
 
-At Kaichi, we build tools that enable everyone to effortlessly take part in the new economy - an economy driven by tokenization and financialization, where decentralisation and digital ownership prevail.&#x20;
+Kaichi aims to address these challenges by <mark style="color:yellow;">**introducing the next-generation monetization and revenue-sharing models**</mark>, granting users ownership of content, implementing decentralized governance, ensuring transparency, and providing control over user data.&#x20;
 
-Social consensus, traditionally shaped on web2 platforms by a complex interplay of algorithmic decisions and user interactions, is at Kaichi influenced directly by market forces. Unlike conventional social networks that primarily focus on user engagement metrics, Kaichi introduces a dynamic marketplace where users actively participate in determining the value of content through the exchange of tokens.&#x20;
+**Imagine** the combination of Twitter, Binance, Patreon or Onlyfans **with fair revenue sharing,**  **decentralized** and **censorship-resistant:** you now have all of this in one place on [**kaichi.xyz**](https://kaichi.xyz)&#x20;
 
-The market-driven social consensus on Kaichi transforms the platform into a dynamic marketplace of ideas and content.&#x20;
+Kaichi comes with both mobile apps (on <mark style="color:red;">iOS</mark> and <mark style="color:red;">Android</mark>) and a [website](https://kaichi.xyz) (desktop and mobile). Kaichi is running on the <mark style="color:yellow;">**Solana**</mark> mainnet offering users a full-fledged, feature-rich social marketplace: from publishing any kind of content on the Solana blockchain directly or on IPFS, [minting their own user token](main-concepts/user-tokens-fees-and-revenue-sharing.md), creating [memecoins](social-media-industry-research/kaichi-value-proposition/tokenizing-social-capital-ico.md#c.-the-memecoiner-dream), [monetizing](social-media-industry-research/kaichi-value-proposition/multiform-monetiztion.md) their content, and [sharing](social-media-industry-research/kaichi-value-proposition/revenue-sharing.md) access and revenues with their community, to following and investing in other communities or individuals, etc.
 
-Furthermore, **we align financial incentives between creators and social media platforms**, and offer a fair governance framework as well as a censorship resistant environment for content creation. Key to understanding Kaichi is to consider it a free-market platform.&#x20;
+## Mission and Vision
 
-Users can for example:
+We introduce a novel approach to social media interactions.&#x20;
 
-1. **Tokenise their social capital** by creating their own **supply-controlled token** and monetising their content.&#x20;
-2. **Invest in the upside and growth of their favorite creators** by buying and selling the creator’s token depending on how much value the creator provides.
-3. **Earn a share of the platform’s revenue** as a consistent cash flow stream from the fees that Kaichi earns, and also from the earnings of each tokens and memecoins that you hold.
+Our primary goal is to create a <mark style="color:yellow;">**more open, inclusive social marketplace with a fair revenue-sharing model**</mark> providing users with different instruments, features, and ways of monetization. Scaling solutions, such as those offered by Solana natively are essential for accommodating growing user bases and sustaining network efficiency.
 
-<figure><img src=".gitbook/assets/Group 55602.png" alt=""><figcaption></figcaption></figure>
+Central to our ethos is <mark style="color:yellow;">**a**</mark> <mark style="color:yellow;">**commitment to value creation for token holders**</mark> and to **distributing such value** at every layer to the community.&#x20;
 
-### Features
+For us, **crypto** is not just technology - **it's a mindset**. Our approach is full-on web3, we are done with web2 or web2.5 solutions. We want to raise global economic prosperity, allowing anyone to unlock growth through the transformative potential of cryptocurrencies. Kaichi allows users to monetize their content, their value-add, irrespective of their talents, by tokenizing their social capital and sharing their success with their audience.&#x20;
 
-<div data-full-width="false">
+Our approach is rooted in the conviction that **tokens underpinning protocols with robust fundamentals will lead the next cycle of outperformance,** outpacing even established benchmarks like Bitcoin.&#x20;
 
-<figure><img src=".gitbook/assets/Frame 55513.png" alt=""><figcaption></figcaption></figure>
+We firmly believe that tokens backed by protocols demonstrating a strong product-market fit, guided by strong and visionary management teams, and showcasing a clear path to sustainable unit economics will excel.&#x20;
 
-</div>
+Now, <mark style="color:yellow;">**you**</mark> can participate in the **growth of your favorite influencer** or project and get financially rewarded.&#x20;
 
-With a decade of trading experience and backgrounds in traditional finance, the founders of Kaichi were clear in their design for the token stack: **transform creator tokens from pump-and-dump schemes into sustainable tokenized models** where both the creator, the token buyer (e.g., follower) and the platform benefit.
-
-The solution is two-fold:
-
-1. **Three token launch presets** are curated to cater to the needs of the creator, brand, or meme coin community. Each preset has its own distribution and, more importantly, its launch mechanism (market making). This guarantees a sustainable bootstrap phase for your token.
-2. A **revenue-sharing model** is integrated into all transactions on the platform, powered by the platform's native token, $KAI.
+\
